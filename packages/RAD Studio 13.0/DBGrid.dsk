@@ -17,31 +17,31 @@ File_14=TSourceModule,'I:\Github\VSoftTechnologies\TaskSchedulerUI\ui\VSoft.WinT
 
 [Modules]
 Module0=I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\FMXCollapsibleDBGridDesign.dproj
-Module1=I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\FMXCollapsibleDBGridRuntime.dproj
-Module2=I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\VCLCollapsibleDBGridDesign.dproj
-Module3=I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\VCLCollapsibleDBGridRuntime.dproj
-Module4=I:\Github\Collapsible-DBGrid-v1_0\src\Common\CollapsibleDBGrid.Core.pas
-Module5=I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\CommonCollapsibleDBGridRuntime.dproj
+Module1=I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\CommonCollapsibleDBGridRuntime.dproj
+Module2=I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\VCLCollapsibleDBGridRuntime.dproj
+Module3=I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\VCLCollapsibleDBGridDesign.dproj
+Module4=I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\FMXCollapsibleDBGridRuntime.dproj
+Module5=I:\Github\Collapsible-DBGrid-v1_0\src\Common\CollapsibleDBGrid.Core.pas
 Count=6
 EditWindowCount=1
 
 [I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\FMXCollapsibleDBGridDesign.dproj]
 ModuleType=TBaseProject
 
-[I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\FMXCollapsibleDBGridRuntime.dproj]
-ModuleType=TBaseProject
-
-[I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\VCLCollapsibleDBGridDesign.dproj]
+[I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\CommonCollapsibleDBGridRuntime.dproj]
 ModuleType=TBaseProject
 
 [I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\VCLCollapsibleDBGridRuntime.dproj]
 ModuleType=TBaseProject
 
+[I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\VCLCollapsibleDBGridDesign.dproj]
+ModuleType=TBaseProject
+
+[I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\FMXCollapsibleDBGridRuntime.dproj]
+ModuleType=TBaseProject
+
 [I:\Github\Collapsible-DBGrid-v1_0\src\Common\CollapsibleDBGrid.Core.pas]
 ModuleType=TSourceModule
-
-[I:\Github\Collapsible-DBGrid-v1_0\packages\RAD Studio 13.0\CommonCollapsibleDBGridRuntime.dproj]
-ModuleType=TBaseProject
 
 [EditWindow0]
 ViewCount=6
